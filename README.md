@@ -4,17 +4,17 @@ Repositorio de Metodologia de Sistemas II
 ##Integrantes y aportes
 
 <ins>Ybañez Cesar</ins>
-> Juk-Juk
+> Juk-Juk<br>
 > Repo Owner y combinación de ramas
 
 <ins>Vasconselo Lara</ins>
-> laravsc
+> laravsc<br>
 > Creadora de integrante_vasconselo.txt y archivo.txt
 
 <ins>Yamila Moyano Silva</ins>
-> ConeSilva
+> ConeSilva<br>
 > Creadora de integrante_silva.txt
 
 <ins>Schneider Mirna</ins>
-> Mirnasolange
+> Mirnasolange<br>
 > Creadora de integrante_schneider.txt

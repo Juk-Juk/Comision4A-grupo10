@@ -1,7 +1,7 @@
 # Comision4A-grupo10
 Repositorio de Metodologia de Sistemas II
 
-##Integrantes y aportes
+## Integrantes y aportes
 
 <ins>Ybañez Cesar</ins>
 > Juk-Juk<br>
